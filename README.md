@@ -6,18 +6,13 @@ DEPT: B-TECH ARTIFICIAL INTELLIEGNCE AND MACHINE LEARNIG
 To Design a book cover page using HTML and CSS.
 
 # DESIGN PROCEDURE
-
 ## Step 1:
 Create a html file .
-
 ## Step 2:
 Choose background image and photo to be used and save it to the repository.
-
 position the elements appropriately
-
 ## Step 3:
 Use html and css code to design the book cover.
-
 # CODE
 ```
 <!DOCTYPE html>
@@ -25,11 +20,7 @@ Use html and css code to design the book cover.
     <html lang="en">
     <head>
         <title>Book Coverpage</title>
-        
-    
-       
-   
-    <style>
+         <style>
        .bookpage
         {
             width:400px;
@@ -39,13 +30,10 @@ Use html and css code to design the book cover.
             background-position: center;
             margin-left: 500px;
             background-repeat:no-repeat;
-          
-          
-        }
+          }
         .h1
         {
             color:white;
-            
         }
 
         .toptext
@@ -107,8 +95,7 @@ Use html and css code to design the book cover.
             color:white;
             font-family: Arial, Helvetica, sans-serif;
             font-size: 20px;
-
-        }
+         }
 
         .bottomhr
         {
@@ -150,7 +137,6 @@ Use html and css code to design the book cover.
     
 </html>
 ```
-
 # OUTPUT
 ![Screenshot 2023-12-15 175545](https://github.com/23008112/Ex-06-Book-Cover-Design/assets/138972470/884cbcc5-2df8-4fe1-b5fb-c8fc75708c95)
 
