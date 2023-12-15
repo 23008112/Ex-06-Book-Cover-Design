@@ -152,6 +152,7 @@ Use html and css code to design the book cover.
 ```
 
 # OUTPUT
+![Screenshot 2023-12-15 175545](https://github.com/23008112/Ex-06-Book-Cover-Design/assets/138972470/884cbcc5-2df8-4fe1-b5fb-c8fc75708c95)
 
 
 
